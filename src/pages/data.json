@@ -1,0 +1,211 @@
+{
+    "books":[
+        {
+            "ISBN-13": "978-1612186054",
+            "ISNB-10": "161218605X",
+            "title": "Stone Maidens",
+            "author": "Lloyd Devereux Richards",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/51NcOGy0y3L._SX332_BO1,204,203,200_.jpg",
+            "publisher": "Thomas & Mercer",
+            "publicationDate": "Nov. 6 2012", 
+            "language": "English",
+            "page": 256,
+            "description":"From TikTok sensation Lloyd Devereux Richards comes the heart-pounding story of FBI agent Christine Prusik as she attempts to unmask a serial killer who leaves a calling card with a terrifying connection to her own haunted past.\n As the chief forensic anthropologist for the FBI's Chicago field office, Christine Prusik has worked her fair share of bizarre cases. Yet this one trumps them all: a serial killer is strangling young women and dumping their bodies in the steep, forested ravines of southern Indiana.\n With each victim, the killer leaves a calling card: a stone figurine carved like the spirit stones found among the native tribes of Papua New Guinea―the same tribes Prusik worked with a decade earlier while doing field research. The personal nature of the similarity is eerie and, frankly, terrifying; Prusik still carries trauma from her time in the field.\n As the dark details continue to surface, Prusik has to wonder if the connection is real or if her nightmares have finally wormed their way into her waking life.",
+            "aboutTheAuthor": "Lloyd Devereux Richards was born in New York City and traveled extensively in Europe, Africa, and Central America before attending law school. He previously served as a senior law clerk for an Indiana Court of Appeals judge, researching and writing drafts for dozens of published opinions, including the appeal of a serial killer sentenced to death. A father of three, he lives with his wife, Cameron O'Connor, and their two dogs in Montpelier, Vermont. Stone Maidens is his first novel."
+        },
+        {
+            "ISBN-13": "978-0140280197",
+            "ISNB-10": "0140280197",
+            "title": "The 48 Laws of Power",
+            "author": "Robert Greene",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/41KY-NORo9L._SX355_BO1,204,203,200_.jpg",
+            "publisher": "Penguin Books",
+            "publicationDate": "Sept. 1 2000", 
+            "language": "English",
+            "page": 496,
+            "description":"The New York Times Bestseller\n Amoral, cunning, ruthless, and instructive, The 48 Laws of Power is the definitive manual for anyone interested in gaining, observing, or defending against ultimate control.\n In the book that People magazine proclaimed “beguiling” and “fascinating,” Robert Greene and Joost Elffers have distilled three thousand years of the history of power into 48 essential laws by drawing from the philosophies of Machiavelli, Sun Tzu, and Carl Von Clausewitz and also from the lives of figures ranging from Henry Kissinger to P.T. Barnum.\n Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game.",
+            "aboutTheAuthor": "Robert Greene is the author of the New York Times bestsellers The 48 Laws of Power, The Art of Seduction, The 33 Strategies of War, and The 50th Law. His highly anticipated fifth book, Mastery, examines the lives of great historical figures such as Charles Darwin, Mozart, Paul Graham and Henry Ford and distills the traits and universal ingredients that made them masters. In addition to having a strong following within the business world and a deep following in Washington, DC, Greene's books are hailed by everyone from war historians to the biggest musicians in the industry (including Jay-Z and 50 Cent).\n Greene attended U.C. Berkeley and the University of Wisconsin at Madison, where he received a degree in classical studies. He currently lives in Los Angeles."
+        },
+        {
+            "ISBN-13": "978-1501110368",
+            "ISNB-10": "1501110365",
+            "title": "It Ends with Us: A Novel",
+            "author": "Colleen Hoover",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/51Zu0ZwT0jL._SX320_BO1,204,203,200_.jpg",
+            "publisher": "Atria Books",
+            "publicationDate": "Aug. 2 2016", 
+            "language": "English",
+            "page": 384,
+            "description":"In this “brave and heartbreaking novel that digs its claws into you and doesn't let go, long after you've finished it” (Anna Todd, New York Times bestselling author) from the #1 New York Times bestselling author of All Your Perfects, a workaholic with a too-good-to-be-true romance can't stop thinking about her first love.\n Lily hasn't always had it easy, but that's never stopped her from working hard for the life she wants. She's come a long way from the small town where she grew up—she graduated from college, moved to Boston, and started her own business. And when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily's life seems too good to be true.\n Ryle is assertive, stubborn, maybe even a little arrogant. He's also sensitive, brilliant, and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn't hurt. Lily can't get him out of her head. But Ryle's complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his “no dating” rule, she can't help but wonder what made him that way in the first place.\n As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan—her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened.\n An honest, evocative, and tender novel, It Ends with Us is “a glorious and touching read, a forever keeper. The kind of book that gets handed down” (USA TODAY).",
+            "aboutTheAuthor": "Colleen Hoover is the #1 New York Times and International bestselling author of multiple novels and novellas. She lives in Texas with her husband and their three boys. She is the founder of The Bookworm Box, a non-profit book subscription service and bookstore in Sulphur Springs, Texas.\n For more information and for a schedule of events, please visit colleenhoover.com."
+        },
+        {
+            "ISBN-13": "978-0735211292",
+            "ISNB-10": "0735211299",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/51B7kuFwQFL._SX329_BO1,204,203,200_.jpg",
+            "publisher": "Avery",
+            "publicationDate": "Oct. 16 2018", 
+            "language": "English",
+            "page": 320,
+            "description":"No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.\n If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights.\n Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field.",
+            "aboutTheAuthor": "James Clear is a writer and speaker focused on habits, decision making, and continuous improvement. He is the author of the #1 New York Times bestseller, Atomic Habits. The book has sold over 5 million copies worldwide and has been translated into more than 50 languages. Clear is a regular speaker at Fortune 500 companies and his work has been featured in places like Time magazine, the New York Times, the Wall Street Journal and on CBS This Morning. His popular '3-2-1' email newsletter is sent out each week to more than 1 million subscribers. "
+        },
+        {
+            "ISBN-13": "978-1039003750",
+            "ISNB-10": "1039003753",
+            "title": "Spare",
+            "author": "Prince Harry The Duke of Sussex",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/41CSAHVHk+L._SX327_BO1,204,203,200_.jpg",
+            "publisher": "Random House Canada",
+            "publicationDate": "Jan. 10 2023", 
+            "language": "English",
+            "page": 416,
+            "description":"It was one of the most searing images of the twentieth century: two young boys, two princes, walking behind their mother's coffin as the world watched in sorrow—and horror. As Princess Diana was laid to rest, billions wondered what Prince William and Prince Harry must be thinking and feeling—and how their lives would play out from that point on.\n For Harry, this is that story at last.\n Before losing his mother, twelve-year-old Prince Harry was known as the carefree one, the happy-go-lucky Spare to the more serious Heir. Grief changed everything. He struggled at school, struggled with anger, with loneliness—and, because he blamed the press for his mother's death, he struggled to accept life in the spotlight. \n At twenty-one, he joined the British Army. The discipline gave him structure, and two combat tours made him a hero at home. But he soon felt more lost than ever, suffering from post-traumatic stress and prone to crippling panic attacks. Above all, he couldn't find true love.\n Then he met Meghan. The world was swept away by the couple's cinematic romance and rejoiced in their fairy-tale wedding. But from the beginning, Harry and Meghan were preyed upon by the press, subjected to waves of abuse, racism, and lies. Watching his wife suffer, their safety and mental health at risk, Harry saw no other way to prevent the tragedy of history repeating itself but to flee his mother country. Over the centuries, leaving the Royal Family was an act few had dared. The last to try, in fact, had been his mother. . . .\n For the first time, Prince Harry tells his own story, chronicling his journey with raw, unflinching honesty. A landmark publication, Spare is full of insight, revelation, self-examination, and hard-won wisdom about the eternal power of love over grief.",
+            "aboutTheAuthor": "Prince Harry, The Duke of Sussex, is a husband, father, humanitarian, military veteran, mental wellness advocate, and environmentalist. He resides in Santa Barbara, California, with his family and three dogs."
+        },
+        {
+            "ISBN-13": "978-0857197689",
+            "ISNB-10": "0857197681",
+            "title": "The Psychology of Money",
+            "author": "Morgan Housel",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/41v+g6LqafL._SX322_BO1,204,203,200_.jpg",
+            "publisher": "Harriman House",
+            "publicationDate": "Sept. 8 2020", 
+            "language": "English",
+            "page": 256,
+            "description":"Doing well with money isn't necessarily about what you know. It's about how you behave. And behavior is hard to teach, even to really smart people.\n Money―investing, personal finance, and business decisions―is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don't make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together.\n In The Psychology of Money, award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life's most important topics.",
+            "aboutTheAuthor": "Morgan Housel is a partner at The Collaborative Fund and a former columnist at The Motley Fool and The Wall Street Journal.\n He is a two-time winner of the Best in Business Award from the Society of American Business Editors and Writers, winner of the New York Times Sidney Award, and a two-time finalist for the Gerald Loeb Award for Distinguished Business and Financial Journalism. He lives in Seattle with his wife and two kids."
+        },
+        {
+            "ISBN-13": "978-0345816023",
+            "ISNB-10": "0345816021",
+            "title": "12 Rules for Life",
+            "author": "Jordan B. Peterson",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/41kspFBwVxL._SX331_BO1,204,203,200_.jpg",
+            "publisher": "Random House Canada",
+            "publicationDate": "Jan. 23 2018", 
+            "language": "English",
+            "page": 448,
+            "description":"What does everyone in the modern world need to know? Renowned psychologist Jordan B. Peterson's answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research.\n Humorous, surprising and informative, Dr. Peterson tells us why skateboarding boys and girls must be left alone, what terrible fate awaits those who criticize too easily, and why you should always pet a cat when you meet one on the street.\n What does the nervous system of the lowly lobster have to tell us about standing up straight (with our shoulders back) and about success in life? Why did ancient Egyptians worship the capacity to pay careful attention as the highest of gods? What dreadful paths do people tread when they become resentful, arrogant and vengeful? Dr. Peterson journeys broadly, discussing discipline, freedom, adventure and responsibility, distilling the world's wisdom into 12 practical and profound rules for life. The 12 Most Valuable Things Everyone Should Know shatters the modern commonplaces of science, faith and human nature, while transforming and ennobling the mind and spirit of its readers.",
+            "aboutTheAuthor": "JORDAN B. PETERSON, raised and toughened in the frigid wastelands of Northern Alberta, has flown a hammer-head roll in a carbon-fiber stunt-plane, explored an Arizona meteorite crater with astronauts, and built a Kwagu'l ceremonial bighouse on the upper floor of his Toronto home after being invited into and named by that Canadian First Nation. He's taught mythology to lawyers, doctors and business people, consulted for the UN Secretary General, helped his clinical clients manage depression, obsessive-compulsive disorder, anxiety, and schizophrenia, served as an adviser to senior partners of major Canadian law firms, and lectured extensively in North America and Europe. With his students and colleagues at Harvard and the University of Toronto, Dr. Peterson has published over a hundred scientific papers, transforming the modern understanding of personality, while his book Maps of Meaning: The Architecture of Belief revolutionized the psychology of religion."
+        },
+        {
+            "ISBN-13": "978-1612680194",
+            "ISNB-10": "1612680194",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/51u8ZRDCVoL._SX330_BO1,204,203,200_.jpg",
+            "publisher": "Plata Publishing",
+            "publicationDate": "April 11 2017", 
+            "language": "English",
+            "page": 336,
+            "description":"It's been nearly 25 years since Robert Kiyosaki's Rich Dad Poor Dad first made waves in the Personal Finance arena.\n It has since become the #1 Personal Finance book of all time... translated into dozens of languages and sold around the world.\n Rich Dad Poor Dad is Robert's story of growing up with two dads — his real father and the father of his best friend, his rich dad — and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you.",
+            "aboutTheAuthor": "Best known as the author of Rich Dad Poor Dad―the #1 personal finance book of all time―Robert Kiyosaki has challenged and changed the way tens of millions of people around the world think about money. He is an entrepreneur, educator, and investor who believes that each of us has the power to makes changes in our lives, take control of our financial future, and live the rich life we deserve. With perspectives on money and investing that often contradict conventional wisdom, Robert has earned an international reputation for straight talk, irreverence, and courage and has become a passionate and outspoken advocate for financial education. Robert's most recent books―Why the Rich Are Getting Richer and More Important Than Money―were published in the spring of last year to mark the 20th Anniversary of the 1997 release of Rich Dad Poor Dad. That book and its messages, viewed around the world as a classic in the personal finance arena, have stood the test of time. Why the Rich Are Getting Richer, released two decades after the international blockbuster bestseller Rich Dad Poor Dad, is positioned as Rich Dad Graduate School. Robert has also co-authored two books with Donald Trump, prior to his successful bid for the White House and election as President of the United States."
+        },
+        {
+            "ISBN-13": "978-0735278363",
+            "ISNB-10": "0735278369",
+            "title": "The Myth of Normal",
+            "author": "Gabor Mate",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/418tbeHYRZL._SX329_BO1,204,203,200_.jpg",
+            "publisher": "Knopf Canada",
+            "publicationDate": "Sept. 13 2022", 
+            "language": "English",
+            "page": 576,
+            "description":"Gabor Maté's internationally bestselling books have changed the way we look at addiction and have been integral in shifting the conversations around ADHD, stress, disease, embodied trauma, and parenting. Now, in this revolutionary book, he eloquently dissects how in Western countries that pride themselves on their health care systems, chronic illness and general ill health are on the rise. So what is really “normal” when it comes to health?\n For all our expertise and technological sophistication, Western medicine often fails to treat the whole person, ignoring how today's culture stresses the body, burdens the immune system, and undermines emotional balance. In The Myth of Normal, co-written with his son Daniel, Maté brings his perspective to the great untangling of common myths about what makes us sick, connects the dots between the maladies of individuals and the declining soundness of society, and offers a compassionate guide for health and healing. The result is Maté's most ambitious and urgent book yet.",
+            "aboutTheAuthor": "A celebrated speaker and bestselling author, DR. GABOR MATÉ is highly sought after for his expertise on a range of topics, such as addiction, stress, and childhood development. Dr. Maté has written several bestselling books, including the award-winning In the Realm of Hungry Ghosts: Close Encounters with Addiction; When the Body Says No: The Cost of Hidden Stress; and Scattered Minds: The Origins and Healing of Attention Deficit Disorder. He is also the co-author of Hold On to Your Kids: Why Parents Need to Matter More Than Peers. His works have been published internationally in more than thirty languages.\n DANIEL MATÉ is an acclaimed composer-lyricist who has received the Kleban Prize for Lyrics, the ASCAP Foundation Cole Porter Award, and a Jonathan Larson Grant. His musicals include The Longing and the Short of It, Hansel & Gretl & Heidi & Günter, Middle School Mysteries, and a forthcoming adaptation of the Russell Banks novel The Sweet Hereafter. He also runs a popular “mental chiropractic” service called Walk With Daniel."
+        },
+        {
+            "ISBN-13": "978-0143127741",
+            "ISNB-10": "0143127748",
+            "title": "The Body Keeps the Score",
+            "author": "Bessel van der Kolk M.D.",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/41D3enj6JVS._SX324_BO1,204,203,200_.jpg",
+            "publisher": "Penguin Books",
+            "publicationDate": "Sept. 8 2015", 
+            "language": "English",
+            "page": 464,
+            "description":"Trauma is a fact of life. Veterans and their families deal with the painful aftermath of combat; one in five Americans has been molested; one in four grew up with alcoholics; one in three couples have engaged in physical violence. Dr. Bessel van der Kolk, one of the world's foremost experts on trauma, has spent over three decades working with survivors. In The Body Keeps the Score, he uses recent scientific advances to show how trauma literally reshapes both body and brain, compromising sufferers' capacities for pleasure, engagement, self-control, and trust. He explores innovative treatments—from neurofeedback and meditation to sports, drama, and yoga—that offer new paths to recovery by activating the brain's natural neuroplasticity. Based on Dr. van der Kolk's own research and that of other leading specialists, The Body Keeps the Score exposes the tremendous power of our relationships both to hurt and to heal—and offers new hope for reclaiming lives.",
+            "aboutTheAuthor": "Bessel van der Kolk, M.D., is the founder and medical director of the Trauma Center in Brookline, Massachusetts. He is also a professor of psychiatry at Boston University School of Medicine and director of the National Complex Trauma Treatment Network. When he is not teaching around the world, Dr. van der Kolk works and lives Boston."
+        },
+        {
+            "ISBN-13": "978-1949759228",
+            "ISNB-10": "1949759229",
+            "title": "The Mountain Is You",
+            "author": "Brianna Wiest",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/41N62t+ANTL._SX331_BO1,204,203,200_.jpg",
+            "publisher": "Thought Catalog Books",
+            "publicationDate": "May 18 2020", 
+            "language": "English",
+            "page": 248,
+            "description":"Coexisting but conflicting needs create self-sabotaging behaviors. This is why we resist efforts to change, often until they feel completely futile. But by extracting crucial insight from our most damaging habits, building emotional intelligence by better understanding our brains and bodies, releasing past experiences at a cellular level, and learning to act as our highest potential future selves, we can step out of our own way and into our potential. For centuries, the mountain has been used as a metaphor for the big challenges we face, especially ones that seem impossible to overcome. To scale our mountains, we actually have to do the deep internal work of excavating trauma, building resilience, and adjusting how we show up for the climb. In the end, it is not the mountain we master, but ourselves.",
+            "aboutTheAuthor": "Brianna is the author of several books, including the international bestsellers '101 Essays That Change The Way You Think' and 'The Mountain Is You.' In her own words, she says, 'I believe that the root of being human is learning how to think. From this, we learn how to love, share, coexist, tolerate, give, and create. I believe the first and most important duty we have is to actualize the potential we were born with ? both for ourselves and for the world. The unspoken line of everything I write is: 'This idea changed my life.' I hope my books do that for you. I hope they deeply inspire you, and I hope they help you become the person you've always wanted to be.'"
+        },
+        {
+            "ISBN-13": "978-1945796067",
+            "ISNB-10": "1945796065",
+            "title": "101 Essays That Will Change The Way You Think",
+            "author": "Brianna Wiest",
+            "coverImageUrl": "https://m.media-amazon.com/images/I/41TuhPL2l4L._SX331_BO1,204,203,200_.jpg",
+            "publisher": "Thought Catalog Books",
+            "publicationDate": "Oct. 1 2016", 
+            "language": "English",
+            "page": 448,
+            "description":"In her second compilation of published writing, Brianna Wiest explores pursuing purpose over passion, embracing negative thinking, seeing the wisdom in daily routine, and becoming aware of the cognitive biases that are creating the way you see your life. This book contains never before seen pieces as well as some of Brianna's most popular essays, all of which just might leave you thinking: this idea changed my life.",
+            "aboutTheAuthor": "Brianna is the author of several books, including the international bestsellers '101 Essays That Change The Way You Think' and 'The Mountain Is You.' In her own words, she says, 'I believe that the root of being human is learning how to think. From this, we learn how to love, share, coexist, tolerate, give, and create. I believe the first and most important duty we have is to actualize the potential we were born with ? both for ourselves and for the world. The unspoken line of everything I write is: 'This idea changed my life.' I hope my books do that for you. I hope they deeply inspire you, and I hope they help you become the person you've always wanted to be.'"
+        }
+    ],
+    
+    "reviews":[
+        {
+            "userName": "lizzy",
+            "rating":5,
+            "date": "February 9, 2023",
+            "content":"It brought tears to my eyes to see this end.. It's been awhile since I've seen a book that had me hooked in the beginning to the end!! I hope there is another book coming!!! It was thrilling and mysterious and so graphic that I felt like I was watching a movie instead of reading."
+        },
+        {
+            "userName": "Jeanne Adkins",
+            "rating":5,
+            "date": "February 12, 2023",
+            "content":"Super happy that I was recommended this author from TikTok. This is exactly the genre of books I read! I'm a new fan of Mr. Lloyd Richards! What a great thriller. I loved how you got to dive into the mind of the killer immediately. The accuracy and detail of the FBI agents/specialty was thoughtful and insightful. I will read again! I was so transfixed, I got lost on the book and the anticipation of finding out how it would all play out I couldn't put it down until I was finished with it! If you love psychological thrillers this is a must to add to your list! I hope his books begin to get recognized for their artistry and it inspires him to write more of these to share his talents with the world. One of my new favorite authors. *Side note: sensory wise I loved the feel of the books finish (like matte?). It felt really nice to hold in my hands! Great choice."
+        },
+        {
+            "userName": "Francie Healy",
+            "rating":5,
+            "date": "January 15, 2023",
+            "content":"I got lost in this book! Its a wonderful page-turner, which meant I spent time reading when I really should have been doing other things. But so worth it. Scott Pratt is a skilled storyteller, with compelling characters. I've already ordered the next book. Scott Pratt stories might be addictive…just sayin…"
+        },
+        {
+            "userName": "emma",
+            "rating":5,
+            "date": "December 11, 2022",
+            "content":"The story is about Joe Dillard, a defence attorney that is very good at his job defending criminals, and for him, that is the problem. He is conflicted with the idea of helping guilty criminals, is tired of that, and decides that the next case will be his last, but for once, he wishes to defend an innocent client. If only this last person accused of a hideous crime would be innocent, and a case came to him of a beautiful girl charged with murder, and he decided to take the case; he is convinced that she is innocent but is she? The story is captivating from the beginning until the end."
+        },
+        {
+            "userName": "cheer423",
+            "rating":3,
+            "date": "April 11, 2022",
+            "content":"This book popped up as a suggestion. I was intrigued by the description but I am not normally a reader of legal thrillers - I tend toward mysteries. The author has the job of creating the universe that his characters inhabit but it is too cluttered for me. The story has too many side tangents (which are setting up reasons/plotlines later in the book). It is not enough to draw me in and continue with the series. I lent it to a friend who does like these kinds of stories - she is a big Grisham fan. She said the way the plot is constructed is very much in the style of legal thrillers. So for me, it was ok but not to my tastes."
+        },
+        {
+            "userName": "Pensioner Power.",
+            "rating":3,
+            "date": "April 27, 2018",
+            "content":"Some readers have made a favourable comparison to John Grisham, I have to say that I feel that comparison is way off the mark. The book is very light on the courtroom action with the outcome very obvious from the early stages of the book. Having said that, I found it an enjoyable read and an admirable first foray into a crowded market. The let down for me was the cliches characters, the defensive lawyer with a heart of gold and a family to match, the corrupt prosecution and police team, irascible judges, a madam straight out Dolly world and an 'innocent' defendant who again from an early stage was clearly not all she seemed to be. On the up side Mr Pratt is an entertaining writer with a lot to work with."
+        },
+        {
+            "userName": "crofter",
+            "rating":5,
+            "date": "September 14, 2020",
+            "content":"This is an author who was new to me. I was looking for something new and chose this book. It was a nice surprise! The main character, the lawyer Joe Dillard is believable and likeable. The plot has more twists than you would believe and I would be amazed if anyone guessed the ending. When I have finished this review I am going to look for book 2 in the series. A great find. Something different . Thanks to the author."
+        },
+        {
+            "userName": "Martin Pratt",
+            "rating":5,
+            "date": "November 14, 2014",
+            "content":"I really enjoyed this book. I admit it first caught my eye because of the coincidence of a shared surname but the reviews were encouraging and so I purchased! I do enjoy a good legal/courtroom drama and was a well thought through and plotted story. This story does not have the grittiness of Joseph Teller's tales but they are just as good as anything by Steve Martini, especially his earlier books. The only real mystery, to me, was the very final page where the author explains that this is a self published book and he'd appreciate a review on Amazon to help promote the books. I am more than happy to do so, my puzzle is why no published has not taken up his books and promoting them in bookshops? They are certainly good enough. I have also read book #2 and have the third ready to read."
+        }
+    ]
+}
