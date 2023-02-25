@@ -24,11 +24,8 @@ const HomePage = () => {
 
   return (
     <div className="content">
-      <div className="home">Home page.</div>
-      <div>Popular books</div>
-      <div>{data.books.map(BookPreview)}</div>
-      <div>Popular reviews</div>
-      <button onClick={onButtonClick}>A Button</button>
+      <h2>Popular books</h2>
+      <div className="books-grid">{data.books.map(BookPreview)}</div>
     </div>
   );
 };

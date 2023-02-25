@@ -13,7 +13,7 @@ const Navbar = () => {
           to="signin"
           style={{
             color: "white",
-            backgroundColor: "#f1356d",
+            backgroundColor: "#0071C5",
             borderRadius: "8px",
           }}
         >

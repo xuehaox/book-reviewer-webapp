@@ -1,20 +1,33 @@
 .content {
-  max-width: 600px;
+  /* max-width: 600px; */
   margin: 40px auto;
   padding: 20px;
+}
+.content h2 {
+  padding-left: 16px;
 }
 
 /* blog previews / list */
 .book-preview {
+  display: inline-block;
   padding: 10px 16px;
   margin: 20px 0;
-  border-bottom: 1px solid #fafafa;
 }
 .book-preview:hover {
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
 .book-preview h2 {
   font-size: 20px;
-  color: #f1356d;
   margin-bottom: 8px;
+}
+.book-preview img {
+  height: 300px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
 }
