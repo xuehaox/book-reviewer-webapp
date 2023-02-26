@@ -1,26 +1,28 @@
 import "./HomePage.css";
 import data from "./data.json";
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 const BookPreview = (book: any) => {
+  const navigate = useNavigate();
+
+  const handleClick = () => {
+    navigate("book/" + book["ISBN-13"], { state: { book: book } });
+  };
+
   return (
-    <Link to={"book/" + book["ISBN-13"]}>
+    <div onClick={handleClick}>
       <div className="book-preview" key={book["ISBN-13"]}>
         <img src={book.coverImageUrl} />
         <h3>{book.title}</h3>
         <div>{book.author}</div>
       </div>
-    </Link>
+    </div>
   );
 };
 
 const HomePage = () => {
   useEffect(() => {}, []);
-
-  const onButtonClick = () => {
-    alert("button clicked");
-  };
 
   return (
     <div className="content">

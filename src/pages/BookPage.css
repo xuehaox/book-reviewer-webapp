@@ -1,0 +1,35 @@
+.book-details-container {
+  display: flex;
+  flex-direction: row;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.book-details-cover {
+  flex-basis: 30%;
+  margin-right: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.book-details-cover img {
+  width: 240px;
+  height: 360px;
+  object-fit: cover;
+}
+
+.book-details-info {
+  flex-basis: 70%;
+}
+
+.book-details-info h2 {
+  margin-bottom: 20px;
+}
+
+.book-details-info h3 {
+  margin-top: 20px;
+}
+
+.book-details-info p {
+  line-height: 1.5;
+}
