@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# The Book Reviewer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React.js website that allows users to read and write book reviews.
+
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshots
+
+### Home Page
+
+![Home Page](./readme_images/home_page.png)
+
+### Book Details Page
+
+![Book Details Page](./readme_images/book_details_page.png)
 
 ## Available Scripts
 
