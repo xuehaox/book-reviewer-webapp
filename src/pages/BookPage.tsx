@@ -1,10 +1,35 @@
 import "./BookPage.css";
+import data from "./data.json";
 import { useLocation } from "react-router-dom";
 import ShowMoreText from "react-show-more-text";
+
+const ReviewCard = (
+  review: {
+    userName: string;
+    rating: number;
+    date: string;
+    content: string;
+  },
+  index: any
+) => {
+  return (
+    <div key={index} className="book-review">
+      <h4>{review.userName}</h4>
+      <div>
+        <span>{review.date}</span>
+        <span> Rating: </span>
+        <span>{review.rating}</span>
+      </div>
+      <p>{review.content}</p>
+    </div>
+  );
+};
 
 const BookPage = () => {
   const location = useLocation();
   const book = location.state?.book;
+
+  const reviews = data.reviews;
 
   return (
     <div className="book-details-container">
@@ -44,6 +69,7 @@ const BookPage = () => {
         <ShowMoreText>{book["aboutTheAuthor"]}</ShowMoreText>
 
         <h3>Book reviews</h3>
+        {reviews.map((review, index) => ReviewCard(review, index))}
       </div>
     </div>
   );
